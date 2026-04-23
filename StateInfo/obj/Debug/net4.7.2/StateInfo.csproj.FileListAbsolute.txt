@@ -1,0 +1,5 @@
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.7.2\StateInfo.csproj.AssemblyReference.cache
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.7.2\StateInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.7.2\StateInfo.AssemblyInfoInputs.cache
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.7.2\StateInfo.AssemblyInfo.cs
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.7.2\StateInfo.csproj.CoreCompileInputs.cache

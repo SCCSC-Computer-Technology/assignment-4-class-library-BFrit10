@@ -1,0 +1,9 @@
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.csproj.AssemblyReference.cache
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.AssemblyInfoInputs.cache
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.AssemblyInfo.cs
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.csproj.CoreCompileInputs.cache
+C:\Users\bfrit\source\repos\StateInfo\bin\Debug\net4.8\StateInfo.dll
+C:\Users\bfrit\source\repos\StateInfo\bin\Debug\net4.8\StateInfo.pdb
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.dll
+C:\Users\bfrit\source\repos\StateInfo\obj\Debug\net4.8\StateInfo.pdb
